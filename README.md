@@ -2,7 +2,7 @@
 Is a microservice for managing and activating customer phone number.
 
 ### Setup Database locally
-run mysql locally then create
+run mysql locally
 1. Create database with name test
 2. create user with name testuser and password testuser
 
